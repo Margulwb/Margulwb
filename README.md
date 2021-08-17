@@ -1,5 +1,5 @@
 # Hello 
-I am Maciej and I want to be the best developer 
+I am Maciek and I want to be the best developer 
 
 ## Portfolio : https://margulwb.github.io/Portfolio/
 
