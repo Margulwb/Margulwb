@@ -1,10 +1,8 @@
 <div align="center">
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Margulwb.Margulwb)
 
 </p>
 <div size='20px'> Hi! My name is Maciek. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -16,6 +14,9 @@
 - 🔭 I’m currently working on New project
 
 - 🌱 I’m currently learning React 
+ 
+  <h2>Portfolio</h2>
+  <span>https://margulwb.github.io/Portfolio/</span>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
