@@ -14,6 +14,9 @@
 - 🔭 I’m currently working on New project
 
 - 🌱 I’m currently learning React 
+
+- 📫 How to reach me maciejgurgul01@gmail.com
+
  
  <h2>Portfolio</h2>
  <span>https://margulwb.github.io/Portfolio/</span>
