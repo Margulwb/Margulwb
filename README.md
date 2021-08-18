@@ -8,9 +8,6 @@
 <div size='20px'> Hi! My name is Maciek. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
 - 🔭 I’m currently working on New project
 
 - 🌱 I’m currently learning React 
