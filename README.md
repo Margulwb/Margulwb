@@ -8,10 +8,6 @@
 <div size='20px'> Hi! My name is Maciek. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-- 🔭 I’m currently working on New project
-
-- 🌱 I’m currently learning React 
-
 - 📫 How to reach me maciejgurgul01@gmail.com
 
  
