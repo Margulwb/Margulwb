@@ -25,7 +25,6 @@
  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg">
  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagios_logo.png">
  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
