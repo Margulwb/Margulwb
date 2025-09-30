@@ -16,30 +16,26 @@
 
 
 <h2> DevOps Skills </h2>
-
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> 
-<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-<img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagios_logo.png"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> 
-
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagios_logo.png">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 
 <h2> Dev Skills </h2>
-
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"> 
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg"> 
-
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg">
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg">
 
 <h2> Connect with me</h2>
 <a href = 'https://www.linkedin.com/in/maciej-gurgul-935904213'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
