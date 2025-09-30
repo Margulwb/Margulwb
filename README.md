@@ -17,62 +17,28 @@
 
 <h2> DevOps Skills </h2>
 
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=jenkins&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=shell&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=groovy&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=ansible&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=kubernetes&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=argo&sort="> 
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=docker&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=sql&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=nagios&sort="> 
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagios_logo.png"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=python&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=azure&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-</a>
-
-<a href="https://github.com/Margulwb?tab=repositories&q=&type=&language=terraform&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> 
-</a>
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> 
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+<img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagios_logo.png"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> 
 
 
-<h2>Dev Skills</h2>
-<a href= https://github.com/Margulwb?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Margulwb?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Margulwb?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Margulwb?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Margulwb?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/Margulwb?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
+<h2> Dev Skills </h2>
+
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"> 
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg"> 
 
 
 <h2> Connect with me</h2>
